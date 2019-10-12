@@ -1,2 +1,2 @@
-theme: jekyll-theme-leap-day
 baseurl: "https://github.com/TheTidehunter/TheTidehunter.github.io/"
+exclude: ["_static", "_sources", "_modules"]
